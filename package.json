@@ -1,0 +1,28 @@
+{
+  "name": "shagit",
+  "version": "0.0.1",
+  "description": "Very simple: returns the git sha of a string. The same as running `git hash-object foo.txt` if the string were saved in that file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wombleton/shagit.git"
+  },
+  "keywords": [
+    "sha",
+    "sha1",
+    "git",
+    "hash",
+    "hash-object",
+    "github"
+  ],
+  "author": "wombleton@gmail.com",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "8bde74882f3c17cf012213f37db743c364c480a6",
+  "bugs": {
+    "url": "https://github.com/wombleton/shagit/issues"
+  }
+}
